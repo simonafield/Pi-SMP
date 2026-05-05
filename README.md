@@ -1,4 +1,4 @@
-# TBLLT's Pi-SMP
+# Pi-SMP
 ## Introduction
 Minecraft: Pi Edition is a minified version of Minecraft, based on MCPE 0.6.1 alpha, from 2013. Still today, a modding community exists to keep the game alive, known as [MCPI Revival](https://github.com/MCPI-Revival). Which enabled hidden features and improved certain aspects of the game. Along with this modding community, a multiplayer community existed too.
 

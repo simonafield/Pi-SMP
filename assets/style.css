@@ -17,7 +17,9 @@ table {
   margin-right: auto;
 }
 
-.tm-main-content { background-color: #ffffff; }
+.tm-main-content {
+  background-color: #ffffff;
+}
 
 #tm-intro-img {
   background-image: url(logo.png);
@@ -25,8 +27,13 @@ table {
   background-size: cover;
 }
 
-.tm-text-white { color: white; }
-.tm-page-header-container { text-align: center; }
+.tm-text-white {
+  color: white;
+}
+
+.tm-page-header-container {
+  text-align: center;
+}
 
 .tm-page-header {
   display: inline-block;
@@ -58,7 +65,9 @@ td {
   outline: #000000 solid 1px;
 }
 
-.tm-text-left { text-align: left; }
+.tm-text-left {
+  text-align: left;
+}
 
 th {
   color: #333333;
@@ -70,10 +79,15 @@ th {
   text-align: center;
 }
 
-tr:nth-child(odd) { background-color: #e5e8ed; }
+tr:nth-child(odd) {
+  background-color: #e5e8ed;
+}
 
 tr.tm-tr-header {
   background-color: #c4cdd6;
   height: 50px;
 }
 
+.github-fork-ribbon:before {
+  background-color: blueviolet;
+}
